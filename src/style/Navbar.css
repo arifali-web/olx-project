@@ -1,0 +1,163 @@
+.serach {
+    border: 1px solid #000 !important;
+}
+
+input.MuiInputBase-input.MuiInput-input.css-1x51dt5-MuiInputBase-input-MuiInput-input {
+    border: 1px solid !important;
+    padding: 6px 163px;
+    /* max-width: 144% !important; */
+}
+
+.navbar {
+    background-color: #f7f8f8;
+    margin: auto;
+    height: 140px;
+    display: flex;
+    align-items: center;
+}
+
+input.search {
+    width: 85%;
+    padding: 14px 12px;
+    border: 2px solid #000;
+    border-radius: 5px;
+}
+
+.searchicon {
+    padding: 11.6px;
+    background-color: aqua;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-left: -0.4rem;
+    position: absolute;
+    background-color: #002f34;
+    color: #fff;
+}
+
+input.search::placeholder {
+    font-size: 18px;
+}
+
+input.location {
+    padding: 14px 79px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+input.location::placeholder {
+    font-size: 18px;
+}
+
+.text-btn {
+    border-bottom: 1px solid !important;
+    border-radius: 0px !important;
+    margin-right: 24px !important;
+}
+
+
+
+nav.sec-nav ul {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+a.links {
+    color: #000;
+    text-decoration: none;
+}
+
+li {
+    display: flex;
+}
+
+.box {
+    width: 90px;
+    height: 90px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.boxes {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+img.img {
+    /* background-size: cover; */
+    object-fit: contain !important;
+    width: 276px;
+    height: 200px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    ;
+}
+
+.card-text {
+    border: 0.1rem solid rgba(0, 47, 52, .2);
+    border-top: none;
+    padding: 10px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    margin-top: -10px;
+}
+
+input#firstName {
+    border: none !important;
+}
+
+input#lastName {
+    border: none !important;
+}
+
+input#address1 {
+    border: none !important;
+}
+
+input#address2 {
+    border: none !important;
+}
+
+input#city {
+    border: none !important;
+}
+
+input#state {
+    border: none !important;
+}
+
+input#zip {
+    border: none !important;
+}
+
+input#country {
+    border: none !important;
+}
+
+input#cardName {
+    border: none !important;
+}
+
+input#cardNumber {
+    border: none !important;
+}
+
+input#expDate {
+    border: none !important;
+}
+
+input#cvv {
+    border: none !important;
+}
+
+
+/* cart-page */
+
+.cart-img {
+    height: 200px !important;
+    width: 200px !important;
+    object-fit: contain;
+    margin-top: 40px;
+}
